@@ -1,2 +1,2 @@
 # Delta-Demo
-Hello this is Rajarshi Chakraborty , a MERN Stack Developer 
+Hello this is Rajarshi Chakraborty , a MERN Stack Developer .
